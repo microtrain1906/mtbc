@@ -1,0 +1,6 @@
+#!/bin/bash
+
+STRING1='Hello'
+STRING2='World'
+STRING3='SHALL WE PLAY A GAME'
+echo "${STRING1} ${STRING2} ${STRING3}"
